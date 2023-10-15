@@ -117,7 +117,7 @@ sections:
   #         date_end: ''
   #         date_start: '2021-01-01'
   #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
+  #         organization: Data
   #         organization_url: https://www.edx.org
   #         title: Blockchain Fundamentals
   #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -280,4 +280,35 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
+  # awards block
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: ''
+          date_start: '2023-09-01'
+          description: ''
+          organization: Tsinghua University
+          organization_url: https://www.coursera.org
+          title: Huawei Scholarship (Top 1%)
+          url: ''
+        - date_end: ''
+          date_start: '2022-09-01'
+          description: ''
+          organization: Tsinghua University
+          organization_url: https://www.coursera.org
+          title: 12•9 Scholarship (Only 1 in the department)
+          url: ''
+    design:
+      columns: '2'
+       
 ---

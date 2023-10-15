@@ -33,7 +33,7 @@ publication_short: In *NeruIPS 2023*
 abstract: Real-world time series are characterized by intrinsic non-stationarity that poses a principal challenge for deep forecasting models. While previous models suffer from complicated series variations induced by changing temporal distribution, we tackle non-stationary time series with modern Koopman theory that fundamentally considers the underlying time-variant dynamics. Inspired by Koopman theory that portrays complex dynamical systems, we disentangle time-variant and time-invariant components from intricate non-stationary series by $\textbf{Fourier Filter}$ and design $\textbf{Koopman Predictor}$ to advance respective dynamics forward. Technically, we propose $\textbf{Koopa}$ as a novel $\textbf{Koop}$man forec$\textbf{a}$ster composed of stackable blocks that learn hierarchical dynamics. Koopa seeks measurement functions for Koopman embedding and utilizes Koopman operators as linear portraits of implicit transition. To cope with time-variant dynamics that exhibits strong locality, Koopa calculates context-aware operators in the temporal neighborhood and is able to utilize incoming ground truth to scale up forecast horizon. Besides, by integrating Koopman Predictors into deep residual structure, we ravel out the binding reconstruction loss in previous Koopman forecasters and achieve end-to-end forecasting objective optimization. Compared with the state-of-the-art model, Koopa achieves competitive performance while saving $77.3\%$ training time and $76.0\%$ memory.
 
 # Summary. An optional shortened abstract.
-summary: we disentangle time-variant and time-invariant components from intricate non-stationary series by $\textbf{Fourier Filter}$ and design $\textbf{Koopman Predictor}$ to advance respective dynamics forward.
+summary: We disentangle time-variant and time-invariant components from intricate non-stationary series by $\textbf{Fourier Filter}$ and design $\textbf{Koopman Predictor}$ to advance respective dynamics forward.
 
 tags: []
 
@@ -46,14 +46,14 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/thuml'
+url_code: 'https://github.com/thuml/Koopa'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

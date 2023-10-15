@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: Bachelor in Software Engineering
-      institution: Tsinghua University
+      institution: School of Software, Tsinghua University
       year: 2025
 
 # Social/Academic Networking
