@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    mailto: 'lichenyu20@mails.tsinghua.edu.cn'
+    link: "mailto:lichenyu20@mails.tsinghua.edu.cn"
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Ul5hyswAAAAJ
@@ -65,7 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a third-year undergraduate student at in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).<br>
-My research interests cover Deep Learning and Machine Learning. I am currently working on deep model applications for time series analysis.<br>
-For more information, please refer to my [CV](uploads/CV_lichenyu.pdf).<br>
+I am a third-year undergraduate student at in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).<br><br>
+My research interests cover Deep Learning and Machine Learning. I am currently working on deep model applications for time series analysis.<br><br>
+For more information, please refer to my [CV](uploads/CV_lichenyu.pdf).<br><br>
 {style="text-align: justify;"}
