@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:lichenyu20/lichenyu20.github.io.git
+	branch = main
