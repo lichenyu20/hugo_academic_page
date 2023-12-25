@@ -295,6 +295,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2023-12-01'
+          description: ''
+          organization: SenseTime
+          organization_url: https://www.coursera.org
+          title: SenseTime AI Scholarship (30 undergraduates domestically)
+          url: ''
+        - date_end: ''
           date_start: '2023-09-01'
           description: ''
           organization: Tsinghua University
