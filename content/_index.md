@@ -298,21 +298,21 @@ sections:
           date_start: '2023-12-01'
           description: ''
           organization: SenseTime
-          organization_url: https://www.coursera.org
+          organization_url: https://www.sensetime.com/cn
           title: SenseTime AI Scholarship (30 undergraduates domestically)
           url: ''
         - date_end: ''
           date_start: '2023-09-01'
           description: ''
           organization: Tsinghua University
-          organization_url: https://www.coursera.org
+          organization_url: https://www.tsinghua.edu.cn/en/
           title: Huawei Scholarship (Top 1%)
           url: ''
         - date_end: ''
           date_start: '2022-09-01'
           description: ''
           organization: Tsinghua University
-          organization_url: https://www.coursera.org
+          organization_url: https://www.tsinghua.edu.cn/en/
           title: 12•9 Scholarship (Only 1 in the department)
           url: ''
     design:
